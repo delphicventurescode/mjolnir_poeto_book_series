@@ -36,7 +36,7 @@ https://github.com/delphicventurescode/mjolnir_poeto_book_series
 
 ---
 
-## Further Information in English & Esperanto
+## Further Information in English & Esperanto on "La Poemaro de la Societo de Mortintaj Japanaj Poetoj"
 
 *La Poemaro de la Societo de Mortintaj Japanaj Poetoj*
 
