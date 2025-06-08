@@ -1,6 +1,8 @@
 # mjolnir_poeto_book_series
-Information about the Mjolnir_Poeto book series
 
-- please note that not all of the software of Mjolnir_Poeto subproject or the Mjolnir project has been made public.
-- what you see here are just a few files (two or three files, as of June 8, 2025) provided for illustration purposes.
+This repository contains information about the Mjolnir_Poeto book series.
+
+- Please note that not all software related to the Mjolnir_Poeto subproject or the broader Mjolnir project has been made publicly available.
+- The files included here (currently two or three as of June 8, 2025) are provided for illustration purposes only.
+
 
