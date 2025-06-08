@@ -1,13 +1,13 @@
 # Foreword Section of the Mjolnir_Poeto Book Series
 
-This directory contains the full Foreword section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Better").
+This directory contains the full Foreword section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Better"), and other books in the series.
 
 ---
 
 ## Contents
 
 - **Foreword.pdf**  
-  The Foreword as a formatted PDF file, exactly as it appears in the book.
+  The Foreword as a formatted PDF file, exactly as it appears in the book (and, with minor edits, other books in the Mjolnir_poeto series).
 
 - **Foreword.txt**  (to be added later, time permitting)
   The plain text version of the Foreword for easy reading and copying.
@@ -16,7 +16,7 @@ This directory contains the full Foreword section from the book *La Juvelo en la
 
 ## About the Foreword
 
-This Foreword provides insight into the Theory of Art developed as part of the Mjolnir_poeto project/
+This Foreword provides insight into the Theory of Art developed as part of the Mjolnir_poeto project.
 
 ---
 
