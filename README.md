@@ -10,7 +10,7 @@ This directory contains a few sample Python files (as of June 8, 2025), intended
 
 ### `/sample_pages/`
 This directory contains a few sample pages from one of the books in the Mjolnir_poeto book series. These pages are meant to give you an idea of the sort of haikus you might come across in the books in the book series. Please note that
-Majolnir_poeto is (a small) part of the larger RALPH project, which, we believe, assuming empirical results bear it out, has significant potential to impact literacy rates in many parts of Asia and Africa.
+Majolnir_poeto is (a small) part of the larger RALPH project, which, we believe, assuming empirical results bear it out, has significant potential to meaningfully impact literacy rates in many parts of Asia and Africa.
 
 ### `/philosophy_behind_mjolnir_poeto/`
 This folder includes a document outlining the philosophy behind the Mjolnir_Poeto book series. It describes the guiding principles of the project, the educational intent, the role of AI in accessible content creation, and its connection to the broader Gxoja Projekto (Happiness Project), which promotes happiness, generally speaking. La Gxoja Projekto would like to encourage joyful and fearless learning for children and adults through simple, open-source tools.
