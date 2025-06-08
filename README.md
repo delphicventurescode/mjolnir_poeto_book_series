@@ -38,7 +38,7 @@ Please consider supporting LeanPub, a Canada-based book publisher, and also our 
 (*) Give A.I. A Chance: A book of poems // available on Amazon // Just search for Manikutty and the title of the book in the search box on Amazon
 **--- and more.
 
-Just search for Manikutty and poems on Amazon to find more books in the Mjolnir_poeto series.
+Just search for "Manikutty" and "poems" on Amazon to find more books in the Mjolnir_poeto series.
 
 ## SUMMARY
 This repository contains information about the Mjolnir_Poeto book series.
