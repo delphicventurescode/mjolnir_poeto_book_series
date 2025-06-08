@@ -55,7 +55,7 @@ La poezia kolekto La Poemaro de la Societo de Mortintaj Japanaj Poeto de Anand M
 Vi povas trovi la libron ĉe LeanPub:
 https://leanpub.com/japanese_poets_society_esperanto/
 
-[English translation:]
+[:English translation:]
 
 *The Dead Japanese Poets’ Society Poetry Book*
 
