@@ -36,12 +36,16 @@ Please consider supporting LeanPub, a Canada-based book publisher, and also our 
 
 
 (*) Give A.I. A Chance: A book of poems // available on Amazon // Just search for Manikutty and the title of the book in the search box on Amazon
-**---
+**--- and more.
 
+Just search for Manikutty and poems on Amazon to find more books in the Mjolnir_poeto series.
+
+## SUMMARY
 This repository contains information about the Mjolnir_Poeto book series.
 
 - Please note that not all software related to the Mjolnir_Poeto subproject or the broader Mjolnir project has been made publicly available.
 - The files included here in the src/ directory (currently two or three as of June 8, 2025) are provided for illustration purposes only. They include a few simple programs that can be used for the purposes of learning Esperanto.
-- The files included in the 
+- The files included in the cut_and_paste_of_intro/ directory contains the cut-and-paste of the Introduction section of one of the books in the Mjolnir_poeto series.
+- The files includes in the philosophy_behind_mjolnir_poeto/ directory contains information pertaining to the philosophy behind the Mjolnir series.
 
-
+##
