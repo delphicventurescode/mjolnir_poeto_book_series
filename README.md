@@ -2,7 +2,7 @@
 
 This repository contains some information and illustrative content related to the **Mjolnir_Poeto** book series—an AI-assisted poetry project.
 
-The code in this repository uploaded to the src/ directory can be easily seen to be designed to support early-stage language learners, for example, in Esperanto and Hindi.
+Sample pages have been provided from one of the books in the book series. Also, the code in this repository uploaded to the src/ directory can be easily seen to be designed to support early-stage language learners, for example, in Esperanto and Hindi.
 ## Contents
 
 ### `/src/`
