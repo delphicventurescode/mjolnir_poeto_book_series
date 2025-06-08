@@ -18,15 +18,21 @@ This folder includes a document outlining the philosophy behind the Mjolnir_Poet
 ### `/cut_and_paste_of_intro/`
 This folder includes a PDF file containing the full **Introduction** section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Further Improved"). This has been provided publicly to clarify the series' scope and purpose for readers—particularly those on platforms like Amazon, where Esperanto is not officially supported. Some reviewers on Amazon seem to have reviewed one of the books in the book series, namely, "The Jewel in the Crown, New and Improved" without realizing and/or understanding the broader aims of the Mjolnir_Poeto project.
 
-## Disclaimer
+## Disclaimer and Clarification
 
-Please note that this repository contains (very) limited portions of the overall project. Most of the software code and datasets used to generate the poems and language tools remain proprietary or unpublished at this time. Most (or all) of the software to manage 
-finances for literacy projects also likewise remains proprietary or unpublished at this time. Most (or all) of the software to manage tasks for literacy projects also likewise remains proprietary or unpublished at this time.
+Please note that this repository contains (very) limited portions of the overall project. Most of the software code and datasets used to generate the poems and language tools remain proprietary or unpublished at this time. Most (or all) of the software to manage finances for literacy projects also likewise remains proprietary or unpublished at this time. Most (or all) of the software to manage tasks for literacy projects also likewise remains proprietary or unpublished at this time.
 
 For more updates, stay tuned to this repository or visit the LeanPub editions of the books. The Esperanto version of the Japanese Dead Poets' Society Poetry Book is available on LeanPub here:
 https://leanpub.com/japanese_poets_society_esperanto
 
 Please consider supporting LeanPub, a Canada-based book publisher that allows for books in languages such as Esperanto to be published, and also our project by purchasing one of our books.
+
+Some reviewers on Amazon have expressed confusion about the purpose of this book series. The core issue lies with the Amazon platform’s limited support for Esperanto. This stems from a technical limitation: Amazon currently lacks the capability to detect plagiarism in Esperanto, likely because they have not yet assembled a sufficiently large corpus of written material in the language. This is not a limitation of the books or the author, but of Amazon’s system. While we have not spelled this out on Amazon—partly because mentioning that the Amazon platform has these shortcomings and that these books are also published on LeanPub, a competing platform which supports Esperanto, might not be welcome in the book’s blurb—this reality affects how the books are presented and reviewed on Amazon.
+
+We understand the frustration this causes readers. Amazon’s platform does not allow this project to be fully self-describing, at least not there. In the spirit of continuous improvement, we have created a GitHub repository to share more information and resources related to the series. It is, of course, this one. We have uploaded the entire foreword of the book also here. You can explore it here:
+
+https://github.com/delphicventurescode/mjolnir_poeto_book_series/foreword_section_full/
+
 
 ## Books
 
