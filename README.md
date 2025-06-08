@@ -18,6 +18,18 @@ This folder includes a document outlining the philosophy behind the Mjolnir_Poet
 ### `/cut_and_paste_of_intro/`
 This folder includes a PDF file containing the full **Introduction** section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Further Improved"). This has been provided publicly to clarify the series' scope and purpose for readers—particularly those on platforms like Amazon, where Esperanto is not officially supported. Some reviewers on Amazon seem to have reviewed one of the books in the book series, namely, "The Jewel in the Crown, New and Improved" without realizing and/or understanding the broader aims of the Mjolnir_Poeto project.
 
+### `/so_what_is_the_big_deal/`
+
+This directory explores the significance behind the creation of *The Dead Japanese Poets’ Society Poetry Book* and similar works within the Mjolnir_Poeto project.
+
+Unlike many language learning or literary projects, this book was written by a **komencanto** (beginner) at the **A1 level** of Esperanto proficiency. Rather than an expert writer, the author considers themselves primarily a translator at this stage.
+
+What makes this noteworthy is the rapid uptake of constructed language (conlang) structures, enabling even beginners to write meaningful literary works. The project includes conlangs specifically designed to leverage this effect, making it easier to engage learners and support early literacy development.
+
+This approach may hold important implications for literacy outcomes, especially in countries where access to traditional language education is limited. While still a hypothesis pending even more empirical validation, this methodology could offer a new pathway for enhancing literacy worldwide through conlangs.
+
+For more details, please refer to the README file within the so_what_is_the_big_deal/ directory.
+
 ## Disclaimer and Clarification
 
 Please note that this repository contains (very) limited portions of the overall project. Most of the software code and datasets used to generate the poems and language tools remain proprietary or unpublished at this time. Most (or all) of the software to manage finances for literacy projects also likewise remains proprietary or unpublished at this time. Most (or all) of the software to manage tasks for literacy projects also likewise remains proprietary or unpublished at this time.
@@ -57,5 +69,10 @@ This repository contains information about the Mjolnir_Poeto book series.
 - The files included here in the src/ directory (currently two or three as of June 8, 2025) are provided for illustration purposes only. They include a few simple programs that can be used for the purposes of learning Esperanto.
 - The files included in the cut_and_paste_of_intro/ directory contains the cut-and-paste of the Introduction section of one of the books in the Mjolnir_poeto series.
 - The files includes in the philosophy_behind_mjolnir_poeto/ directory contains information pertaining to the philosophy behind the Mjolnir series.
+and there is other content here as well, but MOST IMPORANTLY:
 
-##
+- The files includes in the what_is_the_big_deal/ directory tells you 
+  *what is the big deal*
+  around all of this.
+
+## END-OF-FILE
