@@ -1,6 +1,6 @@
 # Foreword Section of the Mjolnir_Poeto Book Series
 
-This directory contains the full Foreword section from the books *La Poemaro de la Societo de Mortintaj Japanaj Poeto*, *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Better"), and other books in the series.
+This directory contains the full Foreword section from the books *La Poemaro de la Societo de Mortintaj Japanaj Poetoj*, *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Better"), and other books in the series.
 
 ---
 
@@ -23,6 +23,8 @@ This Foreword provides insight into the Theory of Art developed as part of the M
 ## License and Usage
 
 The contents of this directory are released under [Creative Commons Attribution-NonCommercial (CC BY-NC 4.0)]. Please feel free to use and share this Foreword section for educational and non-commercial purposes, with proper attribution to the author and the Mjolnir_Poeto project. The name of the author is "Anand Manikutty". The following can be used as the title of the Dead Japanese Poets' Society book:
+*La Poemaro de la Societo de Mortintaj Japanaj Poeto*
+
 
 ---
 
@@ -36,7 +38,7 @@ https://github.com/delphicventurescode/mjolnir_poeto_book_series
 
 ## Further Information in English & Esperanto
 
-La Poemaro de la Societo de Mortintaj Japanaj Poeto
+*La Poemaro de la Societo de Mortintaj Japanaj Poetoj*
 
 La poezia kolekto La Poemaro de la Societo de Mortintaj Japanaj Poeto de Anand Manikutty nun estas publikigita. Jen kelkaj gravaj trajtoj de la libro:
 
@@ -55,7 +57,7 @@ https://leanpub.com/japanese_poets_society_esperanto/
 
 [English translation:]
 
-The Dead Japanese Poets’ Society Poetry Book
+*The Dead Japanese Poets’ Society Poetry Book*
 
 The poetry collection The Dead Japanese Poets’ Society Poetry Book by Anand Manikutty has now been published. Here are some key features of the book:
 
