@@ -8,10 +8,10 @@ The code in this repository uploaded to the src/ directory can be easily seen to
 ### `/src/`
 This directory contains a few sample Python files (as of June 8, 2025), intended to illustrate how simple code can be used to support basic language learning. These files are representative and not the complete software suite behind the Mjolnir_Poeto project or the larger Mjolnir system. Much of the software remains private.
 
-### `/philosophy_of_mjolnir_poeto/`
+### `/philosophy_behind_mjolnir_poeto/`
 This folder includes a document outlining the philosophy behind the Mjolnir_Poeto book series. It describes the guiding principles of the project, the educational intent, the role of AI in accessible content creation, and its connection to the broader Gxoja Projekto (Happiness Project), which promotes happiness, generally speaking. La Gxoja Projekto would like to encourage joyful and fearless learning for children and adults through simple, open-source tools.
 
-### `/intro_excerpt/`
+### `/cut_and_paste_of_intro/`
 This folder includes a PDF file containing the full **Introduction** section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Further Improved"). This has been provided publicly to clarify the series' scope and purpose for readers—particularly those on platforms like Amazon, where Esperanto is not officially supported. Some reviewers on Amazon seem to have reviewed one of the books in the book series, namely, "The Jewel in the Crown, New and Improved" without realizing and/or understanding the broader aims of the Mjolnir_Poeto project.
 
 ## Disclaimer
