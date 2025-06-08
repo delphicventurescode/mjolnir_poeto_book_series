@@ -22,7 +22,7 @@ finances for literacy projects also likewise remains proprietary or unpublished 
 For more updates, stay tuned to this repository or visit the LeanPub editions of the books. The Esperanto version of the Japanese Dead Poets' Society Poetry Book is available on LeanPub here:
 https://leanpub.com/japanese_poets_society_esperanto
 
-Please consider supporting LeanPub, a Canada-based book publisher, and also our project by purchasing one of our books.
+Please consider supporting LeanPub, a Canada-based book publisher that allows for books in languages such as Esperanto to be published, and also our project by purchasing one of our books.
 
 ## Books
 
