@@ -1,6 +1,6 @@
 # Foreword Section of the Mjolnir_Poeto Book Series
 
-This directory contains the full Foreword section from the books *La Poemaro de la Societo de Mortintaj Japanaj Poetoj*, *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Better"), and other books in the series.
+This directory contains the full Foreword section from the books *La Poemaro de la Societo de Mortintaj Japanaj Poetoj* ("The Dead Japanese Poets’ Society Poetry Book"), *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Better"), and other books in the series.
 
 ---
 
