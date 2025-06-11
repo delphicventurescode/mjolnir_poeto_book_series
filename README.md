@@ -84,8 +84,8 @@ This repository contains information about the Mjolnir_Poeto book series.
 
 - Please note that not all software related to the Mjolnir_Poeto subproject or the broader Mjolnir project has been made publicly available.
 - The files included here in the src/ directory (currently two or three as of June 8, 2025) are provided for illustration purposes only. They include a few simple programs that can be used for the purposes of learning Esperanto.
-- The files included in the cut_and_paste_of_intro/ directory contains the cut-and-paste of the Introduction section of one of the books in the Mjolnir_poeto series.
-- The files includes in the philosophy_behind_mjolnir_poeto/ directory contains information pertaining to the philosophy behind the Mjolnir series.
+- The files included in the cut_and_paste_of_intro/ directory contains the cut-and-paste of the Introduction section of one of the books in the Mjolnir_poeto series. 
+- The files includes in the philosophy_behind_mjolnir_poeto/ directory contains information pertaining to the philosophy behind the Mjolnir series. Miscellaneous other directories hold miscellaneous other information.
 and there is other content here in this repo as well, but MOST IMPORANTLY:
 
 - The files includes in the what_is_the_big_deal/ directory tells you 
