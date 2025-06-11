@@ -21,6 +21,10 @@ Majolnir_poeto is (a small) part of the larger RALPH project, which, we believe,
 This folder includes a document outlining the philosophy behind the Mjolnir_Poeto book series. It describes the guiding principles of the project, the educational intent, the role of AI in accessible content creation, and its connection to the broader Gxoja Projekto (Happiness Project), which promotes happiness, generally speaking. La Gxoja Projekto would like to encourage joyful and fearless learning for children and adults through simple, open-source tools. As part of the Mjolnir_poeto series, an entirely new language has been developed. This is an artificial language, or, as linguists would say, it is a ConLang or constructed language. Even though I was at *the A1 level* in Esperanto, I still *managed to write a book* in the language. That is because Esperanto has a very simple grammar
 and predictable rules. That tells you something about the clever way languages can be constructed. Please go to the directory /myFirstEsperantoBook/ to learn more.
 
+### `/oldbokos_newbooks/`
+This folder includes information on which of mybooks in the mjolnir_poeto series are the Malnovaj Libroj (the "old books") and which ones are the Novaj Libroj (that is, the "new books").
+
+
 ### `/cut_and_paste_of_intro/`
 This folder includes a PDF file containing the full **Introduction** section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Further Improved"). This has been provided publicly to clarify the series' scope and purpose for readers—particularly those on platforms like Amazon, where Esperanto is not officially supported. Some reviewers on Amazon seem to have reviewed one of the books in the book series, namely, "The Jewel in the Crown, New and Improved" without realizing and/or understanding the broader aims of the Mjolnir_Poeto project.
 
