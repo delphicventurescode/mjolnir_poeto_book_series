@@ -12,9 +12,9 @@ The ability to write entire books while still at such an early stage of language
 
 ## Implications for Improving Literacy Outcomes and For Organizational Development
 
-By using conlangs designed in this way, it may be possible to significantly improve literacy outcomes. This approach could have far-reaching implications for education and literacy development, especially in countries where learning resources or formal instruction may be limited. In addition, certain types of organizational problems can be solved as well.
+By using conlangs designed in this way, it may be possible to significantly improve literacy outcomes. This approach could have far-reaching implications for education and literacy development, especially in countries where learning resources or formal instruction may be limited. In addition, certain types of organizational problems can be solved as well. Problems such as requiring native vernacular speakers to speak English at work.
 
 Of course, the former remains a hypothesis requiring further empirical testing. (And if supported, it could open new avenues for language learning and literacy advancement worldwide.) But the latter phenomenon is pretty 
-well established. So, what is to prevent us from adopting ConLangs such as Hesperanto immediately? We can eradicate certain types of problems right away. We only have to agree to do it.
+well established. So, what is to prevent us from adopting ConLangs such as Hesperanto immediately? We can eradicate certain types of problems right away. We only have to commit to doing it.
 
 **Sufiĉe dirite!** (Translation: "**Enough said!**")
