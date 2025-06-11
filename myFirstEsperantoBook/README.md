@@ -4,7 +4,7 @@ README for the directory myFirstEsperantoBook/
 
 I wrote my first Esperanto book while still a learner at the A1 level. 
 
-During that week, I made a post on my blog. In fact, I made the very post in this directory (see the PDF in this directory myFirstEsperantoBook/) on my blog on the day I published.
+During that week, I made a post on my blog. In fact, I made the very post in this directory (see the PDF in this directory myFirstEsperantoBook/) on my blog on the day I published my first book.
 
 Around the same time, I emailed Prof. Avinash Dixit (this was during the week of June 9th). Please see below my email to him.
 
