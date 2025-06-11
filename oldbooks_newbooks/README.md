@@ -15,7 +15,7 @@ This README.md file provides a list of both my new books (that is, written or re
 
 . Somera Meditado pri Hindaj Monumentoj
 
-. La Poemaro de la Societo de Motintaj Japanj Poetoj
+. La Poemaro de la Societo de Mortintaj Japanj Poetoj
 
 . The Ekzercado Method: Unlocking Your Full Potential
 
