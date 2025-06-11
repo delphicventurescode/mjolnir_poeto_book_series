@@ -64,19 +64,21 @@ https://github.com/delphicventurescode/mjolnir_poeto_book_series/foreword_sectio
 
 **(*) LA POEMARO DE LA SOCIETO DE MORTINTAJ JAPANAJ POETOJ: Kolekto de poemoj - a book of poems in Esperanto // available on Amazon here: https://tinyurl.com/ypk2ersf
 
-
 (*) Serenading Peaks: Echoes from the Plateau : Haikus of India's Timeless Monuments // available on Amazon // Just search for Manikutty and the title of the book in the search box on Amazon
 
-
 (*) Peak Encounters: Whispers from the Plateau - Haikus on India's Historic Gems // available on Amazon // Just search for Manikutty and the title of the book in the search box on Amazon
-
 
 (*) Give A.I. A Chance: A book of poems // available on Amazon // Just search for Manikutty and the title of the book in the search box on Amazon
 **--- and more.
 
 Just search for "Manikutty" and "poems" on Amazon to find more books in the Mjolnir_poeto series.
 
-## SUMMARY
+## People
+
+Tech lead, project lead: Anand Manikutty.
+- projects being pursued with the cooperation and assistance of Sankaran Manikutty, and contractors.
+- 
+## Summary
 This repository contains information about the Mjolnir_Poeto book series.
 
 - Please note that not all software related to the Mjolnir_Poeto subproject or the broader Mjolnir project has been made publicly available.
