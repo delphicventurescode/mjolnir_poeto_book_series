@@ -17,4 +17,4 @@ By using conlangs designed in this way, it may be possible to significantly impr
 Of course, the former remains a hypothesis requiring further empirical testing. (And if supported, it could open new avenues for language learning and literacy advancement worldwide.) But the latter is pretty well
 proven. So, what is to prevent us from adopting ConLangs such as Hesperanto immediately?
 
-Sufiĉe dirite! (Translation: "Enough said!")
+**Sufiĉe dirite!** (Translation: "**Enough said!**")
