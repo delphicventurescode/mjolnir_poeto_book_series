@@ -5,7 +5,7 @@ This README.md file provides a list of both my new books (that is, written or re
 
 ## New books
 
-. A heartbreaking Work of Staggering Genius
+. A Heartbreaking Work of Staggering Genius, Redux
 
 . Kantoj Inter Kolonoj
 
