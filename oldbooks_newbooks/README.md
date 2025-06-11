@@ -3,7 +3,7 @@ README FILE
 
 This README.md file provides a list of both my new books (that is, written or revised in 2025 and after) and my old books. I would recommend everyone to buy one of my books and not the old books.
 
-##New bokos
+## New books
 
 . A heartbreaking Work of Staggering Genius
 . Kantoj Inter Kolonoj
