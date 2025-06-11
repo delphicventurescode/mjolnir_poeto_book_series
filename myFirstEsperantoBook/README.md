@@ -10,8 +10,9 @@ Around the same time, I emailed Prof. Avinash Dixit (this was during the week of
 
 As you can see, one of the ideas behind the RALPH project is that technologies built on ConLangs — and platforms that support the learning of ConLangs — offer a dramatically more efficient route to literacy. 
 
-Indeed, instead of building technologies to adapt to whatever languages we may be teaching our children (or even adult learners), such as English or Hindi, it would be better to mould the language to
-today's available technologies, and develop languages along those lines.
+Indeed, **instead of** building technologies to *adapt* to whatever languages we may be teaching our children (or even adult learners), such as English or Hindi, it would be better to **mould the language** 
+we teach to today's available technologies, and build **new languages** keeping in mind the technologies we have available today. (Such languages, e.g. Klingon, Dothraki, et cetera, already exist.) How about
+**that** for a Thought For the Day?
 
 An advantage with a ConLang like Hesperanto is that it can be learned rapidly and used as a language of communication at the workplace. Thus, people whose native language may be a vernacular such as Hindi, Marathi or Odiya need not feel ashamed or second rate just because they don't know English.
 
