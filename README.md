@@ -27,6 +27,11 @@ This folder includes information on which of my books in the mjolnir_poeto serie
 ### `/cut_and_paste_of_intro/`
 This folder includes a PDF file containing the full **Introduction** section from the book *La Juvelo en la Krono: Nun Eĉ Plie Plibonigita* ("The Jewel in the Crown: Now Even Further Improved"). This has been provided publicly to clarify the series' scope and purpose for readers—particularly those on platforms like Amazon, where Esperanto is not officially supported. Some reviewers on Amazon seem to have reviewed one of the books in the book series, namely, "The Jewel in the Crown, New and Improved" without realizing and/or understanding the broader aims of the Mjolnir_Poeto project.
 
+### `/why_buy_one_of_the_books/`
+📘 Why Buy One of the Books?
+
+Curious why someone would write over a dozen books in Esperanto haiku form? This [directory](why_buy_one_of_the_books/) explains the logic, value, and fun behind the *mjolnir_poeto* series—from language accessibility to poetic flair, and why it's worth your dollar.
+
 ### `/so_what_is_the_big_deal/`
 
 This directory explores the significance behind the creation of *The Dead Japanese Poets’ Society Poetry Book* and similar works within the Mjolnir_Poeto project.
