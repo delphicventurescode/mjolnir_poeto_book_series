@@ -8,7 +8,7 @@ Welcome! This directory contains an invitation, a question, and perhaps even an 
 
 ## 1. Perfect for Esperanto Beginners (A1–A2 Level)
 
-These books are designed with *you* in mind—whether you're just starting your Esperanto journey or are at the lower-intermediate level. Each poem is written to be accessible and encouraging, with minimal grammar and vocabulary hurdles. The bilingual layout (Esperanto + English) helps you pick up the rhythm and feel of the language without getting overwhelmed.
+These books are designed with *you* in mind—whether you're just starting your Esperanto journey or are at the lower-intermediate level. Each poem is written to be accessible and encouraging, with minimal grammar and vocabulary hurdles. 
 
 ## 2. Like Board Books, But For Adults
 
