@@ -75,10 +75,11 @@ Just search for "Manikutty" and "poems" on Amazon to find more books in the Mjol
 
 ## People
 
-Tech lead, project lead: Anand Manikutty.
-- projects being pursued with the cooperation and assistance of Sankaran Manikutty, and contractors.
-- 
+**Tech Lead & Project Lead:** Anand Manikutty  
+Projects in this series are being pursued with the cooperation and assistance of Sankaran Manikutty, along with contributions from various contractors.
+
 ## Summary
+
 This repository contains information about the Mjolnir_Poeto book series.
 
 - Please note that not all software related to the Mjolnir_Poeto subproject or the broader Mjolnir project has been made publicly available.
