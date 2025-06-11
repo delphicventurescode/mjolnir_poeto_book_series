@@ -8,7 +8,7 @@ Sample pages have been provided from one of the books in the book series. Also, 
 ### `/src/`
 This directory contains a few sample Python files (as of June 8, 2025), intended to illustrate how simple code can be used to support basic language learning. These files are representative and not the complete software suite behind the Mjolnir_Poeto project or the larger Mjolnir system. Much of the software remains private (as would be obvious, since there really isn't even much code to even go through in the src/ directory).
 
-### `/myFirstEsperantoBook/`
+### `/my_first_esperanto_book/`
 **Definitely** go through the contents of this directory. Enough said. In fact, do that right away, and come back here when you are done.
 
 Ah! now, we are back!
