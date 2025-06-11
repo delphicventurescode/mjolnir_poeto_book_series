@@ -21,7 +21,7 @@ This README.md file provides a list of both my new books (that is, written or re
 
 . The Dead Japanese Poets' Society Poetry Book
 
-. The Jewel in the Crown
+. The Jewel in the Crown, New and Improved
 
 ## Old books
 
