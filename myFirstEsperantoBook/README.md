@@ -4,18 +4,18 @@ README for the directory myFirstEsperantoBook/
 
 I wrote my first Esperanto book while still a learner at the A1 level. 
 
-I made the post (see the PDF in this directory) on my blog on the day I published.
+During that week, I made a post on my blog. In fact, I made the very post in this directory (see the PDF in this directory myFirstEsperantoBook/) on my blog on the day I published.
 
 Around the same time, I emailed Prof. Avinash Dixit (this was during the week of June 9th). Please see below my email to him.
 
-As you can see, one of the ideas is that technologies built on ConLangs — and platforms that support the learning of ConLangs — offer a dramatically more efficient route to literacy. 
+As you can see, one of the ideas behind the RALPH project is that technologies built on ConLangs — and platforms that support the learning of ConLangs — offer a dramatically more efficient route to literacy. 
 
-Indeed, instead of building technologies to adapt to whatever languages we may be teaching our children (or even adult learners), it would be better to mould the language to
-today's available technologies.
+Indeed, instead of building technologies to adapt to whatever languages we may be teaching our children (or even adult learners), such as English or Hindi, it would be better to mould the language to
+today's available technologies, and develop languages along those lines.
 
-Another advantage with a ConLang like Hesperanto is that people whose native language may be Hindi, Marathi or Odiya need not feel ashamed or second rate just because they don't know English.
+An advantage with a ConLang like Hesperanto is that it can be learned rapidly and used as a language of communication at the workplace. Thus, people whose native language may be a vernacular such as Hindi, Marathi or Odiya need not feel ashamed or second rate just because they don't know English.
 
-Any way, below is my email to Prof. Avinash Dixit.
+Any way, below is my email to Prof. Avinash Dixit. Take a look
 
 ## EMAIL TO AVINASH DIXIT
 
@@ -36,3 +36,5 @@ In the meantime, if this line of thought sparks any ideas or connections on your
 Warm regards,
 
 Anand
+
+## END OF EMAIL 
