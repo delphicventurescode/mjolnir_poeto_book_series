@@ -8,6 +8,9 @@ Sample pages have been provided from one of the books in the book series. Also, 
 ### `/src/`
 This directory contains a few sample Python files (as of June 8, 2025), intended to illustrate how simple code can be used to support basic language learning. These files are representative and not the complete software suite behind the Mjolnir_Poeto project or the larger Mjolnir system. Much of the software remains private.
 
+### `/myFirstEsperantoBook/`
+**Definitely** go through the contents of this directory. Enough said.
+
 ### `/sample_pages/`
 This directory contains a few sample pages from one of the books in the Mjolnir_poeto book series. These pages are meant to give you an idea of the sort of haikus you might come across in the books in the book series. Please note that
 Majolnir_poeto is (a small) part of the larger RALPH project, which, we believe, assuming empirical results bear it out, has significant potential to meaningfully impact literacy rates in many parts of Asia and Africa.
