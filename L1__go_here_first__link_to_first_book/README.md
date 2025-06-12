@@ -47,8 +47,8 @@ This book is part of the larger *mjolnir_poeto* project—an experiment in poeti
 
 Visit the GitHub project for:
 - Sample poems  
-- Artistic theory write-ups  
-- Background on why this project caught the attention of Nobel Laureates
+- Code  
+- Esperanto Tutorial related information
 
 🔗 [mjolnir_poeto GitHub](https://github.com/delphicventurescode/mjolnir_poeto_book_series)
 
