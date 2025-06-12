@@ -2,7 +2,7 @@
 
 The below information has been directly cut-and-pasted from ChatGPT. It has not been double checked for accuracy.
 
-##
+## BEGIN CHATGPT_INFO
 
 # 📚 Learn Esperanto: Resources & Tutorials
 
@@ -48,5 +48,7 @@ Focused on helping beginners quickly grasp morphemes and grammar. Great for unde
 <!-- Hidden comment: Additional advanced resources can be added later -->
 
 Happy learning! 🌍✨
+
+## END CHATGPT_INFO
 
 
