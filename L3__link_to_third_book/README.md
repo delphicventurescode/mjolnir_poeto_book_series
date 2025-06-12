@@ -21,3 +21,11 @@ LeanPub listing: https://leanpub.com/aliameditado_mjolnirpoeto/
 <!-- Proton Drive: LIBRO2_Alia_Meditado_pri_Hindaj_Monumentoj -->
 
 [+]
+
+## ⏳ Note on Amazon Publishing Delays
+
+Please note that **Amazon's publishing system can take several hours** to review and update any changes made to a book's content or blurb. This delay makes it difficult to quickly preview how the description appears on the Amazon product page. 
+
+To make it easier for readers and collaborators to access the current version of the book blurb, we have **included the full text of the blurb in a separate file**: [`blurb.md`](./blurb.md). This file contains the most up-to-date version of the book description, independent of Amazon’s publishing cycle.
+
+[+]
