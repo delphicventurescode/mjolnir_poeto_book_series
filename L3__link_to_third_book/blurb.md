@@ -40,5 +40,5 @@ To solve this problem, we have created a GitHub.
 👉 [This Book’s GitHub Folder](https://github.com/delphicventurescode/mjolnir_poeto_book_series/tree/main/L3__link_to_third_book)
 
 ---
-The contents of this blur itself have been uploaded to GitHub for easier review.
+The blurb itself has been uploaded to GitHub for easier review.
 ---
