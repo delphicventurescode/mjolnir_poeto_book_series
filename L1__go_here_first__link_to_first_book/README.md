@@ -20,7 +20,7 @@ TinyURL: https://tinyurl.com/bddhx9bb
 
 Anand Manikutty—“the Cristiano Ronaldo of ConLang poetry”—returns with a new collection of haikus inspired by India’s monuments, myths, and silences. *Rivero de Versoj* (Esperanto for “River of verses”) is a book of haikus on India's monuments.
 
-Through this poetry series, we aim to bring attention to Mjolnir, an A.I. poet, whose work has been featured as part of a Reddit AskMeAnything and whose technology has been brought to the attention of numerous academics and resaerchers, 
+Through this poetry series, we aim to bring attention to Mjolnir, an A.I. poet, whose work has been featured as part of a Reddit AskMeAnything and whose technology has been brought to the attention of numerous academics and researchers, 
 including Prof. Roy Taylor, Prof. Mary Beard, Prof. Avinash Dixit and many others. This includes two Nobel Leareates even (at last count!)
 
 Written in Esperanto and English at the A1–A2 level, with the Esperanto at the A1/A2 level, this book is accessible to beginners and language learners alike in the Esperanto language. It is available for purchase on Amazon and LeanPub.
