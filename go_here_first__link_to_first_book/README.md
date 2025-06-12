@@ -33,7 +33,7 @@ Written in Esperanto and English at the A1–A2 level, with the Esperanto at the
 - ✅ Part of a AI-assisted literary experiment  
 - ✅ Explores a new Theory of Art on cultural value and accessibility  
 - ✅ Beautiful introduction to both haiku and the Esperanto language  
-- ✅ Only ~$1—easy on your wallet, deep on meaning  
+- ✅ The books in the mjolnir_poeto series cost only ~$1 to $4, typically — easy on your wallet, deep on meaning  
 
 ---
 
