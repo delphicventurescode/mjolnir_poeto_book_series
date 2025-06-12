@@ -5,7 +5,7 @@
 <-- print("it was a HTML file converted to pdf") -->
 More sample poems available in this directory. 
 
-- Converted HTML file.
+- HTML file converted to PDF format.
 
 2. Note #2
 
