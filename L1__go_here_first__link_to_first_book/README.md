@@ -50,6 +50,12 @@ Visit the GitHub project for:
 
 ---
 
+
+<!-- This is a hidden comment -->
+<!-- Proton Drive: LIBRO3_Rivero_de_Versoj -->
+
+[~]
+
 ## Bottom Line
 
 A dollar for a doorway into silence, beauty, and multilingual creativity.  
