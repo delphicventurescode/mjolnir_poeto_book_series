@@ -33,10 +33,10 @@ URL for LeanPub Listing: https://leanpub.com/riverodeversoj_mjolnirpoeto/
 
 ## Why This Book Matters
 
-- ✅ Nineteen original haikus in Esperanto and English  
+- ✅ Fifteen to nineteen original haikus in Esperanto 
 - ✅ Part of a AI-assisted literary experiment  
 - ✅ Explores a new Theory of Art on cultural value and accessibility  
-- ✅ Beautiful introduction to both haiku and the Esperanto language  
+- ✅ Beautiful introduction with a newly developed Theory of Art
 - ✅ The books in the mjolnir_poeto series cost only ~$1 to $4, typically — easy on your wallet, deep on meaning  
 
 ---
