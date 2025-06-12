@@ -23,7 +23,7 @@ Anand Manikutty—“the Cristiano Ronaldo of ConLang poetry”—returns with a
 Through this poetry series, we aim to bring attention to Mjolnir, an A.I. poet, whose work has been featured as part of a Reddit AskMeAnything and whose technology has been brought to the attention of numerous academics and resaerchers, 
 including Prof. Roy Taylor, Prof. Mary Beard, Prof. Avinash Dixit and many others. This includes two Nobel Leareates even (at last count!)
 
-Written in Esperanto and English at the A1–A2 level, with the Esperanto at the A1/A2 level, this book is accessible to beginners and language learners alike in the Esperanto language on Amazon and LeanPub.
+Written in Esperanto and English at the A1–A2 level, with the Esperanto at the A1/A2 level, this book is accessible to beginners and language learners alike in the Esperanto language. It is available for purchase on Amazon and LeanPub.
 
 TinyURL for Amazon Listing: https://tinyurl.com/bddhx9bb
 
