@@ -14,8 +14,6 @@ TinyURL for Amazon Listing: https://tinyurl.com/dp3uyt2z
 
 LeanPub Listing of the book : https://leanpub.com/somerameditado_mjolnirpoeto/
 
-[+]
-
 <!-- This is a hidden comment -->
 <!-- Proton Drive: LIBRO1_Somera -->
 
