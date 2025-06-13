@@ -18,3 +18,11 @@ LeanPub Listing of the book : https://leanpub.com/somerameditado_mjolnirpoeto/
 <!-- Proton Drive: LIBRO1_Somera -->
 
 [~]
+
+## ⏳ Note on Amazon Publishing Delays
+
+Please note that **Amazon's publishing system can take several hours** to review and update any changes made to a book's content or blurb. This delay makes it difficult to quickly preview how the description appears on the Amazon product page. 
+
+To make it easier for readers and collaborators to access the current version of the book blurb, we have **included the full text of the blurb in a separate file** in this directory itself. This file contains the most up-to-date version of the book description, independent of Amazon’s publishing cycle.
+
+[+]
