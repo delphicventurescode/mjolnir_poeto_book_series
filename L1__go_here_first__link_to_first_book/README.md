@@ -14,6 +14,8 @@ The first official release in the 2025 *mjolnir_poeto* series is now live on Ama
 
 A full blurb for the book, which includes information about this GitHub, is available on the Amazon listing for the work. It is currently work in progress, however.
 
+**Update**: a full blurb is now available on the LeanPub Listing.
+
 TinyURL: https://tinyurl.com/bddhx9bb
 
 ---
@@ -28,6 +30,8 @@ including Prof. Roy Taylor, Prof. Mary Beard, Prof. Avinash Dixit and many other
 Written in Esperanto and English at the A1–A2 level, with the Esperanto at the A1/A2 level, this book is accessible to beginners and language learners alike in the Esperanto language. It is available for purchase on Amazon and LeanPub.
 
 TinyURL for Amazon Listing: https://tinyurl.com/bddhx9bb
+
+A full blurb for the book is available on the LeanPub listing for the book.
 
 URL for LeanPub Listing: https://leanpub.com/riverodeversoj_mjolnirpoeto/
 
