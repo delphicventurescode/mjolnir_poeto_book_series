@@ -14,6 +14,8 @@ TinyURL for Amazon Listing: https://tinyurl.com/dp3uyt2z
 
 [+]
 
+A full blurb for the book is available on the LeanPub listing for the book.
+
 LeanPub Listing of the book : https://leanpub.com/somerameditado_mjolnirpoeto/
 
 <!-- This is a hidden comment -->
