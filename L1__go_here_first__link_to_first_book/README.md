@@ -14,7 +14,7 @@ The first official release in the 2025 *mjolnir_poeto* series is now live on Ama
 
 A full blurb for the book, which includes information about this GitHub, is available on the Amazon listing for the work. It is currently work in progress, however.
 
-**Update**: a full blurb is now available on the LeanPub Listing.
+**Update (of Jun 13, 2025)**: a full blurb is now available on the LeanPub Listing.
 
 TinyURL: https://tinyurl.com/bddhx9bb
 
