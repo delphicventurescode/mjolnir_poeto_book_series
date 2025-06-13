@@ -12,6 +12,8 @@ The first official release in the 2025 *mjolnir_poeto* series is now live on Ama
 
 [ https://www.amazon.in/dp/B0FCT76SP5/ref=sr_1_1?crid=2K3S7VXTXS1WW&dib=eyJ2IjoiMSJ9.iteLFhieuQcnnznJ8exi5HGr2HAPSZpP31lTwMmaM8-HFNYvligm9XoHt8U_NuTw7new9DIsZKl6xIg8rqwN1a-6b7zIOIM0zVxZRq88jkQCVqdLLUjmBRQHEWEn-ub7YwSxtrH5VaspVoWIB_eimC2OM5q8Vkp32kv4QoIA53n2Xc0f8JzrLB1ahBWYo5MMwT72-lXkb32k-9TFdKCj_4sJ3qa_lfjL49c9Ulc_aAE.KMhF7m4fKhz4KY-AON50SzQoRB12sn66Xbct4T_BIi8&dib_tag=se&keywords=manikutty+poetry&qid=1749718982&sprefix=manikutty+poetry%2Caps%2C231&sr=8-1 ]
 
+A full blurb for the book, which includes information about this GitHub, is available on the Amazon listing for the work. It is currently work in progress, however.
+
 TinyURL: https://tinyurl.com/bddhx9bb
 
 ---
