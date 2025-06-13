@@ -23,6 +23,6 @@ LeanPub Listing of the book : https://leanpub.com/somerameditado_mjolnirpoeto/
 
 Please note that **Amazon's publishing system can take several hours** to review and update any changes made to a book's content or blurb. This delay makes it difficult to quickly preview how the description appears on the Amazon product page. 
 
-To make it easier for readers and collaborators to access the current version of the book blurb, we have **included the full text of the blurb in a separate file** in this directory itself. This file contains the most up-to-date version of the book description, independent of Amazon’s publishing cycle.
+To make it easier for readers and collaborators to access the current version of the book blurb, we have **included the full text of the blurb in a separate file** in this directory itself. We also have updated the LeanPub website with the latest version of the blurb. In the interest of efficiency, we request Amazon readers to visit the LeanPub listing for the book to view the blurb. This website contains the most up-to-date version of the book description, independent of Amazon’s publishing cycle.
 
 [+]
