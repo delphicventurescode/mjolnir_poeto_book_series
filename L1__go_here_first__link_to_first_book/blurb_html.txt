@@ -1,0 +1,39 @@
+<p><b>Rivero de Versoj</b><br>
+<i>A Collection of Haikus in Esperanto</i></p>
+
+<p>In <i>Rivero de Versoj</i> (“River of Verses”), India's cultural and spiritual landmarks flow together in a luminous stream of seventeen-syllable meditations. This evocative collection, written in Esperanto, captures poetic impressions of some of India’s most iconic cities and monuments—from the serene grandeur of the Taj Mahal to the burning ghats of Varanasi, from the monsoon-swept arches of Jaipur to the quietude of Dharamshala’s snowy hills. Each scene is distilled into a minimalist 17-syllable moment, inviting reflection, presence, and wonder. Want to know why I have written <b>Japanese </b>poetry<b> </b>about <b>Indian</b> monuments? Visit my GitHub. Link below.</p>
+
+<p>This book is part of the <i>mjolnir_poeto</i> project, a creative and experimental series that now <b>includes over ten volumes</b>. The aim of the series is not only poetic expression but also to demonstrate the power of constructed languages—especially Esperanto—as tools to promote literacy, creativity, and improved learning outcomes. All poems in this collection have been written to be accessible to Esperanto learners at the A1–A2 levels, making the book both a meditative reading experience and a resource for language learning. Want to know why I have written more than ten books in this series?  Visit my <b>GitHub</b>. Link below.</p>
+
+<p>This is the next volume in the <i>mjolnir_poeto</i> project, a creative experiment in multilingual expression, artistic discipline, and educational design. The series demonstrates how constructed languages—especially Esperanto—can foster literacy, poetic voice, and cross-cultural reflection, even for beginner writers. I have brought this technology and the accompanying ideas to the attention of numerous researchers, including even two Nobel Laureates.  Want to know why busy researchers might be interested in a project like this? <b>Visit my GitHub</b>. Link below.</p>
+
+<p><b>Highlights:</b></p>
+
+<ul>
+	<li><p>Fifteen to nineteen original haikus in Esperanto</p>
+	</li>
+	<li><p>Bilingual presentation: Esperanto and English</p>
+	</li>
+	<li><p>Crafted for A1–A2 level Esperanto learners</p>
+	</li>
+	<li><p>Celebrates poetic minimalism and world heritage</p>
+	</li>
+	<li><p>Part of the evolving <i>mjolnir_poeto</i> initiative to support language, literacy, and creativity</p>
+	</li>
+</ul>
+
+<p>[<b>WARNING:</b> WRITING FOR BOOK BLURB NOT YET COMPLETE - MEN AT WORK! - BLURB SECTION IS UNDER CONSTRUCTION]<br>
+----<br>
+<br>
+<b>Note:</b> This Amazon listing is not <i>memdeskriba</i> (self-describing).<br>
+<br>
+Please visit the GitHub directory for this book for additional information:<br>
+<br>
+http://github.com/delphicventurescode/mjolnir_poeto_book_series/L1__go_here_first__link_to_first_book<br>
+<br>
+For context, motivation, and additional resources—including sample poems and project documentation—please visit the official GitHub page:<br>
+<br>
+🔗 https://github.com/delphicventurescode/mjolnir_poeto_book_series/<br>
+<br>
+<br>
+[+]</p>
