@@ -1,7 +1,7 @@
 # **SOMERA MEDITADO PRI HINDAJ MONUMENTOJ**  
 *A Collection of Haikus in Esperanto*
 
-Step into the stillness of Indian summer, where the stonework of palaces, temples, and forts meets the delicate art of haiku. Written in **Esperanto**, this evocative collection captures the poetic essence of India’s most iconic cities and monuments — from the quiet majesty of the **Taj Mahal** to the burning ghats of **Varanasi**, from the monsoon-drenched arches of **Jaipur** to the meditative calm of **Dharamshala**.
+Step into the stillness of Indian summer, where the stonework of palaces, temples, and forts meets the delicate art of haiku. Written in **Esperanto**, this evocative collection captures the poetic essence of India’s most iconic cities and monuments — from the quiet majesty of the **Taj Mahal** to the ghats of **Varanasi**, from the monsoon-drenched arches of **Jaipur** to the meditative calm of **Dharamshala**.
 
 This book is part of the *mjolnir_poeto* series.  
 To understand why I have written more than ten books in this series, please visit my [GitHub](https://github.com/qwykr/mjolnir_poeto_book_series).
