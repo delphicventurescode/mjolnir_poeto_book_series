@@ -8,7 +8,7 @@ During that week, I made a post on my blog. In fact, I made the very post in thi
 
 Around the same time, I emailed Prof. Avinash Dixit (this was during the week of June 9th). Please see below my email to him.
 
-As you can see, one of the ideas behind the RALPH project is that technologies built on ConLangs — and platforms that support the learning of ConLangs — offer a dramatically more efficient route to literacy. 
+As you can see, one of the ideas behind the RALPH project is that technologies built on ConLangs — and platforms that support the learning of ConLangs — could offer a dramatically more efficient route to literacy. 
 
 Indeed, **instead of** building technologies to *adapt* to whatever languages we may be teaching our children (or even adult learners), such as English or Hindi, it would be better to **mould the language** 
 we teach to today's available technologies, and build **new languages** keeping in mind the technologies we have available today. (Such languages, e.g. Klingon, Dothraki, et cetera, already exist.) How about
