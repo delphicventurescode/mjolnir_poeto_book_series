@@ -5,7 +5,8 @@ This README.md file provides a list of both my new books (that is, written or re
 
 ## New books
 
-[UPDATED LAST: week of June 8th and June 15th, 2025]
+[**UPDATED LAST:** week of June 8th and June 15th, 2025]
+
 [ More books constantly being added ]
 
 . A Heartbreaking Work of Staggering Genius, Redux
