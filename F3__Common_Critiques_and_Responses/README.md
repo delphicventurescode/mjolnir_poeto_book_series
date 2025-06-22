@@ -1,6 +1,6 @@
 ## 🙋 Common Critiques and Thoughtful Responses
 
-This project — a collection of machine-generated Esperanto haiku, performed for dogs — is intentionally unconventional. Naturally, it invites both curiosity and critique. Below are some common concerns people may raise, along with how this project anticipates and responds to them.
+One part of this project — a collection of machine-generated Esperanto haiku, some of them written to be performed for dogs — are intentionally unconventional. Naturally, it invites both curiosity and critique. Below are some common concerns people may raise, along with how this project anticipates and responds to them.
 
 ---
 
