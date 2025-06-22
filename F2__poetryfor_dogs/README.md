@@ -24,7 +24,8 @@ They simply listen. Or they tilt their heads. Or they exist beside me in a momen
 
 ## Why recite poetry to dogs?
 
-Because it **builds bridges** — to their **human owners**.  
+Because it can **build bridges** — to their **human owners**.  
+When you talk to a dog owner, or a dog's associated human, you are talking to someone who has needs and wants too.
 You trade stories. You share advice. You learn what can help a particular dog.  
 You increase happiness — for the dog, the owner, and yourself.
 
