@@ -29,7 +29,7 @@ When you talk to a dog owner, or a dog's associated human, you are talking to so
 You trade stories. You share advice. You learn what can help a particular dog.  
 You increase happiness — for the dog, the owner, and yourself.
 
-And for **stray dogs** — often carrying the trauma of abuse — a soft, rhythmic voice can be a gentle invitation.  
+And for **stray dogs** — some carrying the trauma of abuse — a soft, rhythmic voice can be a gentle invitation.  
 A signal that **not all humans are cruel**.  
 
 ---
