@@ -2,7 +2,7 @@
 
 I have written over ten books of poetry in Esperanto — all of them **books of haiku**, all of them in **three line Esperanto verse**.
 
-But here’s the twist: many of these poems are **machine-generated**.
+But here’s the twist: many, actually most, of these poems are **machine-generated**.
 
 A common critique I face is:  
 > “These poems weren’t written by *you*.”  
