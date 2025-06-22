@@ -12,6 +12,7 @@ This line of thinking reflects a deeper bias — a kind of **species-ism** in ar
 Why must a poem be authenticated by human authorship to carry value?  
 Why assume that only a human soul can birth verse that matters?
 
+Some of the generated poems were recited to **dogs**.
 When I recite these haiku to **dogs**, they don’t care whether the poems were written by a person, a machine, or something in between.  
 They simply listen. Or they relax. Or they exist beside me in a moment of calm.
 
