@@ -1,12 +1,19 @@
 # mjolnir_poeto_book_series
 
-This repository contains some information and illustrative content related to the **Mjolnir_Poeto** book series—an AI-assisted poetry project.
+> 🏆 **This repository documents an achievement in literature.**
+> The **mjolnir_poeto** book series represents a verified attempt at a **World Record for the most books of poetry in Esperanto published in two consecutive years** — over thirteen volumes completed between 2023 and 2024.
+> That record is currently in the process of being formally verified. What you are looking at is not just a poetry project. It is history being made, one haiku at a time.
 
-Sample pages have been provided from one of the books in the book series. Also, the code in this repository uploaded to the src/ directory can be easily seen to be designed to support early-stage language learners, for example, in Esperanto and Hindi.
+This repository contains some information and illustrative content related to the **Mjolnir_Poeto** book series — an AI-assisted poetry project.
+
+Sample pages have been provided from one of the books in the book series. Also, the code in this repository uploaded to the `src/` directory can be easily seen to be designed to support early-stage language learners, for example, in Esperanto and Hindi.
+
 ## Contents
 
 ### `/src/`
-This directory contains a few sample Python files (as of June 8, 2025), intended to illustrate how simple code can be used to support basic language learning. These files are representative and not the complete software suite behind the Mjolnir_Poeto project or the larger Mjolnir system. Much of the software remains private (as would be obvious, since there really isn't even much code to even go through in the src/ directory).
+
+This directory contains a few sample Python files (as of June 8, 2025), intended to illustrate how simple code can be used to support basic language learning. These files are representative and not the complete software suite behind the Mjolnir_Poeto project or the larger Mjolnir system. Much of the software remains private (as would be obvious, since there really isn't even much code to even go through in the `src/` directory).
+
 
 ### `/my_first_esperanto_book/`
 **Definitely** go through the contents of this directory. Enough said. In fact, do that right away, and come back here when you are done.
