@@ -3,7 +3,7 @@
 > 🏆 **Here is the big deal, stated plainly and triumphantly:**
 > The **mjolnir_poeto** book series represents a verified attempt at a **World Record for the most books of poetry published in two consecutive years** — over thirteen volumes completed between 2023 and 2024.
 > That record is currently in the process of being formally verified. What you are looking at is not just a poetry project. A second project in the series **almost certainly** holds the record for **the most**
-> **books of poetry published in two consecutive years**, using at least one constructed language. It is history being made, one haiku at a time.
+> **books of poetry published in two consecutive years**, **using at least one constructed language**. It is history being made, one haiku at a time.
 
 This directory explains the significance behind the creation of *The Dead Japanese Poets' Society Poetry Book* and related works.
 
